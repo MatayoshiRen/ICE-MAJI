@@ -28,4 +28,5 @@
 一か月(One month)
 ## スクリーンショット(Screenshot)
 ![タイトル画面(Title)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/MAJIICE.png)
+![勝利画面(win)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/win.png)
 
