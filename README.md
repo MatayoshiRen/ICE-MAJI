@@ -10,7 +10,7 @@
 
 
 ## プラットフォーム(Platoform)
-・[Androidデータ(Android Deta)](https://github.com/MatayoshiRen/ICE-MAJI/tree/master/ICEMAJI_builddata)<br>
+・[Androidデータ(Android Date)](https://github.com/MatayoshiRen/ICE-MAJI/tree/master/ICEMAJI_builddata)<br>
 
 ## 担当したプログラム(Program in charge)
 ・[()]()<br>
