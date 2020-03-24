@@ -7,7 +7,7 @@
 ## 概要(OverView)<br>
 
 ## ジャンル(Genre)<br>
-対戦型3Dアクションゲーム
+対戦型3Dアクションゲーム<br>
 
 ## プラットフォーム(Platoform)
 ・[Androidデータ(Android Date)](https://github.com/MatayoshiRen/ICE-MAJI/tree/master/ICEMAJI_builddata)<br>
@@ -29,6 +29,7 @@
 ## 制作期間(Production period)
 一か月(One month)<br>
 ## スクリーンショット(Screenshot)
-![タイトル画面(Title)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/MAJIICE.png)
-![勝利画面(win)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/win.png)
+![タイトル画面(Title)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/MAJIICE.png)<br>
+![勝利画面(win)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/win.png)<br>
+![()]()<br>
 
