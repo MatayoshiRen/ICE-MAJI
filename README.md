@@ -17,7 +17,7 @@
 ・[Photon_ネットワーク(Photon_ Network)]()<br>
 ・[プレイヤーの挙動(Player behavior)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/sinkyuseisaku_game/Assets/Photon%20Unity%20Networking/Resources/script/net.cs)<br>
 ・[ボールの動き()](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/sinkyuseisaku_game/Assets/Photon%20Unity%20Networking/Resources/script/ball.cs)<br>
-・[()]()<br>
+・[Photon_ネットワーク()](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/sinkyuseisaku_game/Assets/Photon%20Unity%20Networking/Resources/script/net.cs)<br>
 
 ## ゲーム紹介(Game introduction)
 
