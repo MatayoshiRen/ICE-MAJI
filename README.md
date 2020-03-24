@@ -30,7 +30,7 @@
 一か月(One month)
 
 ## PV
-### [-ICE MAJI-](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/PV/majiice_1.mp4)<br>
+### [-ICE MAJI-](https://drive.google.com/open?id=104MyjpdppNtPkeQbPJGJqcUm5EaSfiq9)<br>
 ## スクリーンショット(Screenshot)
 ![タイトル画面(Title)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/MAJIICE.png)
 ![勝利画面(win)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/win.png)
