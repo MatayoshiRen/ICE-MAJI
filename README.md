@@ -18,6 +18,7 @@
 ・[プレイヤーの挙動(Player behavior)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/sinkyuseisaku_game/Assets/Photon%20Unity%20Networking/Resources/script/net.cs)<br>
 ・[ボールの動き()](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/sinkyuseisaku_game/Assets/Photon%20Unity%20Networking/Resources/script/ball.cs)<br>
 ・[Photon_ネットワーク()](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/sinkyuseisaku_game/Assets/Photon%20Unity%20Networking/Resources/script/net.cs)<br>
+・[アイテム生成()](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/sinkyuseisaku_game/Assets/Photon%20Unity%20Networking/Resources/script/itemcountseisei.cs)<br>
 
 ## ゲーム紹介(Game introduction)
 
