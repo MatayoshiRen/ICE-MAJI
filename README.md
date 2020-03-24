@@ -28,6 +28,8 @@
 
 ## 制作期間(Production period)
 一か月(One month)<br>
+## PV動画(PV video)
+![PV(PV)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/ICEMAJI_QR.png)<br>
 ## スクリーンショット(Screenshot)
 ![タイトル画面(Title)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/MAJIICE.png)<br>
 ![勝利画面(win)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/win.png)<br>
