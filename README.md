@@ -5,7 +5,7 @@
 ・[Buildデータ(Build Deta)](https://github.com/MatayoshiRen/ICE-MAJI/tree/master/ICEMAJI_builddata)<br>
 
 ## 概要(OverView)<br>
-
+※Android端末が２台以上必要
 ## ジャンル(Genre)<br>
 対戦型3Dアクションゲーム<br>
 
