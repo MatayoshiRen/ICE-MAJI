@@ -32,6 +32,7 @@
 ![PV(PV)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/ICEMAJI_QR.png)<br>
 ## スクリーンショット(Screenshot)
 ![タイトル画面(Title)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/MAJIICE.png)<br>
+![ゲーム画面(Game)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/Game.png)<br>
 ![勝利画面(win)](https://github.com/MatayoshiRen/ICE-MAJI/blob/master/ScreenShot/win.png)<br>
-![()]()<br>
+
 
